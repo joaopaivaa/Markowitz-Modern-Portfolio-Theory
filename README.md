@@ -1,1 +1,1 @@
-Implementation of Markowitz Modern Portfolio Theory with multiple simulations. Validated through Montecarlo Simulation. (Next step) - Turn it into a python library.
+Implementation of Markowitz Modern Portfolio Theory with multiple simulations and validated through Montecarlo Simulation.
